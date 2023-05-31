@@ -1,0 +1,73 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Google Snappy FMX Demo'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  DesignerMasterStyle = 0
+  object Memo1: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    Position.X = 8.000000000000000000
+    Position.Y = 8.000000000000000000
+    Size.Width = 624.000000000000000000
+    Size.Height = 417.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Viewport.Width = 620.000000000000000000
+    Viewport.Height = 413.000000000000000000
+  end
+  object CompressBtn: TButton
+    Position.X = 8.000000000000000000
+    Position.Y = 440.000000000000000000
+    Size.Width = 80.000000000000000000
+    Size.Height = 32.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Compress'
+    OnClick = CompressBtnClick
+  end
+  object DecompressBtn: TButton
+    Position.X = 104.000000000000000000
+    Position.Y = 440.000000000000000000
+    Size.Width = 80.000000000000000000
+    Size.Height = 32.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = 'Decompress'
+    OnClick = DecompressBtnClick
+  end
+  object CompressByStreamBtn: TButton
+    Position.X = 200.000000000000000000
+    Position.Y = 440.000000000000000000
+    Size.Width = 121.000000000000000000
+    Size.Height = 32.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 5
+    Text = 'Compress By Stream'
+    OnClick = CompressByStreamBtnClick
+  end
+  object DecompressByStreamBtn: TButton
+    Position.X = 336.000000000000000000
+    Position.Y = 440.000000000000000000
+    Size.Width = 137.000000000000000000
+    Size.Height = 32.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 6
+    Text = 'Decompress by Stream'
+    OnClick = DecompressByStreamBtnClick
+  end
+  object openFileDialog: TOpenDialog
+    Left = 8
+    Top = 424
+  end
+  object saveFileDialog: TSaveDialog
+    Left = 48
+    Top = 424
+  end
+end

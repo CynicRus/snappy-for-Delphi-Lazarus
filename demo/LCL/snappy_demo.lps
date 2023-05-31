@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="snappy_demo.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="22"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="360"/>
+        <CursorPos Y="382"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="302"/>
+        <CursorPos Y="325"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="G:\usr\share\fpcsrc\3.2.2\rtl\inc\dynlibs.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="14"/>
+        <CursorPos X="12" Y="27"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="118" Column="19" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="110" Column="74" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="126" Column="51" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="51" Column="14" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="128" TopLine="180"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="4" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="2"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="175" Column="30" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="382" TopLine="358"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="306" TopLine="291"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="308" TopLine="291"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="309" TopLine="291"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="277" TopLine="262"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="279" TopLine="262"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="280" TopLine="262"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="281" TopLine="262"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="282" TopLine="262"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="294" TopLine="280"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="295" TopLine="280"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="297" TopLine="280"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="298" TopLine="280"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="309" TopLine="294"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="310" TopLine="294"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="311" TopLine="294"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="312" TopLine="294"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="323" TopLine="299"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="324" TopLine="300"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\libsnappy.pas"/>
+        <Caret Line="325" TopLine="302"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="382" TopLine="358"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="383" Column="57" TopLine="360"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
