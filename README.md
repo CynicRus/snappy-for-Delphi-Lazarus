@@ -7,6 +7,8 @@ This is bindigns for the Google Snappy library for Delphi and Lazarus. Tested in
 Also available the prebuild versions of the libsnappy for Windows x64, Linux x64, MacOS x64, MacOS ARM64. The libs have been compiled from source of original snappy [repo](https://github.com/google/snappy): 
 with clang + musl toolchains. 
 Of course, you are not required to use the prebuild version of libs, and compile it yourself with Clang or GCC (I didn't test with MSVC, srry:().
+
+
 How to use bindings:
 ====================
 Just add libsnappy.pas from the src directory to the your project. If you want use the the static load of library define SNAPPY_STATIC_INIT. By default I prefer to use the dinamic loading.
