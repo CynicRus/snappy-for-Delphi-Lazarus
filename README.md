@@ -30,11 +30,11 @@ libsnappy.dylib is necessary to place in /usr/local/lib , and after then do ctrl
 
 Demo:
 =====
-![alt text](https://github.com/CynicRus/snappy-for-Delphi-Lazarus/blob/[main]/demo/screens/VCL.jpg?raw=true)
-![alt text](https://github.com/CynicRus/snappy-for-Delphi-Lazarus/blob/[main]/demo/screens/FMX.jpg?raw=true)
-![alt text](https://github.com/CynicRus/snappy-for-Delphi-Lazarus/blob/[main]/demo/screens/MacOS.png?raw=true)
-![alt text](https://github.com/CynicRus/snappy-for-Delphi-Lazarus/blob/[main]/demo/screens/LinuxLCL.jpg?raw=true)
-![alt text](https://github.com/CynicRus/snappy-for-Delphi-Lazarus/blob/[main]/demo/screens/WindowsLCL.jpg?raw=true)
+![alt text](https://github.com/CynicRus/snappy-for-Delphi-Lazarus/blob/demo/screens/VCL.jpg?raw=true)
+![alt text](https://github.com/CynicRus/snappy-for-Delphi-Lazarus/blob/demo/screens/FMX.jpg?raw=true)
+![alt text](https://github.com/CynicRus/snappy-for-Delphi-Lazarus/blob/demo/screens/MacOS.png?raw=true)
+![alt text](https://github.com/CynicRus/snappy-for-Delphi-Lazarus/blob/demo/screens/LinuxLCL.jpg?raw=true)
+![alt text](https://github.com/CynicRus/snappy-for-Delphi-Lazarus/blob/demo/screens/WindowsLCL.jpg?raw=true)
 
 What is Snappy
 ==============
