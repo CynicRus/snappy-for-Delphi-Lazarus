@@ -7,6 +7,7 @@ This is bindigns for the Google Snappy library for Delphi and Lazarus. Tested in
 Also available the prebuild versions of the libsnappy for Windows x64, Linux x64, MacOS x64, MacOS ARM64. The libs have been compiled from source of original snappy [repo](https://github.com/google/snappy): 
 with clang + musl toolchains. 
 Of course, you are not required to use the prebuild version of libs, and compile it yourself with Clang or GCC (I didn't test with MSVC, srry:().
+The oldest version of Delphi, like Delphi 7 isn't support.
 
 
 How to use bindings:
@@ -30,11 +31,11 @@ libsnappy.dylib is necessary to place in /usr/local/lib , and after then do ctrl
 
 Demo:
 =====
-![alt text](/demo/screens/VCL.jpg?raw=true)
-![alt text](/demo/screens/FMX.jpg?raw=true)
-![alt text](/demo/screens/MacOS.png?raw=true)
-![alt text](/demo/screens/LinuxLCL.jpg?raw=true)
-![alt text](/demo/screens/WindowsLCL.jpg?raw=true)
+![alt text](/demo/screens/VCL.jpg?raw=true "VCL")
+![alt text](/demo/screens/FMX.jpg?raw=true "FMX")
+![alt text](/demo/screens/MacOS.png?raw=true "LCL MacOS")
+![alt text](/demo/screens/LinuxLCL.jpg?raw=true "LCL Linux")
+![alt text](/demo/screens/WinLCL.jpg?raw=true "LCL Windows")
 
 What is Snappy
 ==============
