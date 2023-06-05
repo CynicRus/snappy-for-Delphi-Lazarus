@@ -5,7 +5,7 @@ Introduction
 ==============
 This is bindigns for the Google Snappy library for Delphi and Lazarus. Tested in Delphi 11 Alexandria and Lazarus 2.2
 Also available the prebuild versions of the libsnappy for Windows x64, Linux x64, MacOS x64, MacOS ARM64. The libs have been compiled from source of original snappy [repo](https://github.com/google/snappy): 
-with the [Powertech] clang(https://github.com/powertech-center/clang). 
+with the [PowerTech] clang(https://github.com/powertech-center/clang). 
 Of course, you are not required to use the prebuild version of libs, and compile it yourself with Clang or GCC (I didn't test with MSVC, srry:().
 The oldest version of Delphi, like Delphi 7 isn't support.
 
