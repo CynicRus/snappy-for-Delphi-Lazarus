@@ -11,11 +11,7 @@ interface
 
 uses
 {$IFNDEF FPC}
-  {$IFNDEF DELPHI_7}
-  System.Classes, System.SysUtils {$IFDEF MSWINDOWS}, Winapi.Windows{$ENDIF};
-  {$ELSE}
-  Windows,Classes,Sysutils;
-  {$ENDIF}
+ Classes, Sysutils {$IFDEF MSWINDOWS}, Windows{$ENDIF};
 {$ENDIF}
 {$IFDEF FPC}
  Classes,Sysutils,LCLIntf,dynlibs;
@@ -84,7 +80,6 @@ type
   private
     FStrm: TStream;
     FStrmPos: Int64;
-    // FBZRec: TBZStreamRec;
     FBuffer: array of byte;
   protected
     constructor Create(Strm: TStream);
